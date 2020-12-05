@@ -1,2 +1,2 @@
-# CLI-2
- My second CLI on IPL Quiz
+# My second CLI
+ My second CLI on IPL Quiz with highscores feature
